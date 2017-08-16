@@ -7,3 +7,4 @@ Preview camera use GLSurfaceView  include landscape and portrait
       mParameters.setZoom(14);
       mCamera.startSmoothZoom(14);
   }
+## 包含RXJava2.0封装适用
